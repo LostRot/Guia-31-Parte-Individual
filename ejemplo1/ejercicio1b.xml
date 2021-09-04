@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?> 
-<!-- ejercicio1a.xml  AG17020 -->
+<!-- ejercicio1b.xml  AG17020 -->
 <fichero>
     <ficha id="1" fechaingreso="1/11/2012">
         <nombre>Antonio</nombre>
@@ -13,5 +13,18 @@
         <telefono>72636000</telefono>
         <email>ag17020@ues.edu.sv</email>
         <url>www.mabrego.com</url>
+
+    </ficha>
+    <ficha id="3" fechaingreso="3/09/2021">
+        <nombre>Josue</nombre>
+        <apellido>Guillen</apellido>
+        <direccion>San Salvador</direccion>
+        <telefono>60005011</telefono>
+        <email>josueguillen@gmail.com</email>
+        <url>www.jg.com</url>
+        <dui>64844584-9</dui>
+        <isss>4455</isss>
+        <afp>afp confia</afp>
+        
     </ficha>
 </fichero> 
